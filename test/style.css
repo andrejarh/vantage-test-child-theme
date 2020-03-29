@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Live Editor Test theme 
+ Theme URI:    http://orionthemes.com/
+ Description:  A Vantage child theme
+ Author:       @andrejarh
+ Author URI:   http://orionthemes.com
+ Template:     Vantage
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Test, Live Editor
+ Text Domain:  test
+*/
+
+.staticblock-wrap {
+	max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+	color: red;
+}
